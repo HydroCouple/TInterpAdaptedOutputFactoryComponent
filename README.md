@@ -1,0 +1,2 @@
+# TInterpAdaptedOutputFactoryComponent
+An AdaptedOutputFactoryComponent for interpolating time varying data.
